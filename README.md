@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Felix Pratamasan
+# Movie Recommender System
 
 ## Project Overview
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada zaman sekarang, seperti yang kita ketahui terdapat banyak sekali pilihan dan kita harus memilih pilihan tersebut. Akibat banyaknya pilihan, setiap orang pernah memiliki masalah untuk memilih [1]. Contohnya pada saat kita ingin menonton film, banyak sekali film di dunia ini yang telah bermunculan dan kita menjadi kebingungan mengenai film apa yang sebaiknya kita nonton\.
